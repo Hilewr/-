@@ -1,6 +1,6 @@
 // Копирование IP адреса в буфер обмена
 function copyIP() {
-    const ip = 'your-server-ip:27015';
+    const ip = '87.103.198.62:27015';
     
     // Создаем временный элемент для копирования
     const tempInput = document.createElement('input');
@@ -52,3 +52,4 @@ window.addEventListener('scroll', () => {
         header.style.boxShadow = 'none';
     }
 });
+
